@@ -1,4 +1,4 @@
-const scriptURL = https://script.google.com/macros/library/d/1GBzzlWeekGhZQzopr2MVounEQgPn5IJCigneYT_UOwyGFIfTlBYawNny/1
+const scriptURL = "https://script.google.com/macros/s/AKfycbxo6zbzzedg8u502Yg8Vnq5kd4pBEF9qMF6lZmIFNmtRf7_nbjmjNbZ7z80DPT7J2-42g/exec";
 const form = document.getElementById("colorForm");
 const response = document.getElementById("response");
 
